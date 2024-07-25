@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 
 
 <!-- 깃허브 평판 -->
-![Unbbox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unbbox&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unbbox&hide=contribs,prs&show_icons=true)
