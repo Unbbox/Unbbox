@@ -28,8 +28,12 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 사용한 언어 비율 -->
-[![Unbbox's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Unbbox)](https://github.com/anuraghazra/github-readme-stats)<br>
+<div align="center">
+  [![Unbbox's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Unbbox)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <!-- 깃허브 평판 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unbbox&hide=contribs,prs&show_icons=true)
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unbbox&hide=contribs,prs&show_icons=true)
+</div>
