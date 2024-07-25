@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 뱃지 디자인 -->
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center"> Tech </h3>
 <div>
   <div align="center">
   <img src="https://img.shields.io/badge/HTML-20232a.svg?style=for-the-badge&logo=HTML5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS-20232a.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6" /> <img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" />     </div>
